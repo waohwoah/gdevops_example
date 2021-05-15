@@ -9,6 +9,12 @@
 
   <name>Simple Maven example</name>
   <url>https://jitpack.io/#jitpack/maven-simple/0.1</url>
+  
+  <properties>
+    <sonar.projectKey>waohwoah_maven-simple</sonar.projectKey>
+    <sonar.organization>waohwoah</sonar.organization>
+    <sonar.host.url>https://sonarcloud.io</sonar.host.url>
+  </properties>
 
   <dependencies>
     <dependency>
