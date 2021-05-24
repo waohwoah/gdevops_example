@@ -11,9 +11,9 @@
   <url>https://jitpack.io/#jitpack/maven-simple/0.1</url>
   
   <properties>
-    <sonar.projectKey>waohwoah_maven-simple</sonar.projectKey>
-    <sonar.organization>waohwoah</sonar.organization>
-    <sonar.host.url>https://sonarcloud.io</sonar.host.url>
+   <sonar.projectKey>waohwoah_gdevops_example</sonar.projectKey>
+   <sonar.organization>waohwoah</sonar.organization>
+   <sonar.host.url>https://sonarcloud.io</sonar.host.url>
   </properties>
 
   <dependencies>
