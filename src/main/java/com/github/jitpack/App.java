@@ -8,7 +8,7 @@ public class App
 {
     public static void main(String[] args)
     {
-        System.out.println(new App().greet("Equifax!"))
+        System.out.println(new App().greet("Team Members!"));
     }
 
     public String greet(String name) {
